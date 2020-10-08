@@ -1,4 +1,6 @@
 # cfzhang.xd.edu
 my website - hugo researcher theme
 
-public files
+all source files
+
+Try to deploy the site using netlify
