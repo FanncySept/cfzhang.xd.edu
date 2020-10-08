@@ -1,2 +1,4 @@
 # cfzhang.xd.edu
-my website
+my website - hugo researcher theme
+
+public files
